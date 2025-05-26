@@ -12,6 +12,8 @@ Technical:
 - Backend: **NodeJS, Mysql**
 - Some pictures of project
 
+Url: **https://clinic.moctrasoft.com/**
+
 ![image](https://github.com/user-attachments/assets/d7dcad91-c4f5-4b39-a216-fad206cb33fe)
 
 ![image](https://github.com/user-attachments/assets/d778e646-e3de-44f0-af27-65289a2d11c5)
