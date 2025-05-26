@@ -6,9 +6,10 @@ Mộc Trà Soft introduce new software "Management Clinic" with some feature as:
 - Attached online payment for clinic's services
 - All activity will inform by email
 - And another functions as: medicine warehouses, doctors, specialist, accounts, logs, payment logs
+- 
 Technical:
-- Frontend: ReactJS, ChakraUI, Google Captcha ...
-- Backend: NodeJS, Mysql
+- Frontend: **ReactJS, ChakraUI, Google Captcha ...**
+- Backend: **NodeJS, Mysql**
 - Some pictures of project
 
 ![image](https://github.com/user-attachments/assets/d7dcad91-c4f5-4b39-a216-fad206cb33fe)
